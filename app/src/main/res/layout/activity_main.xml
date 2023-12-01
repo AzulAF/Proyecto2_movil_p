@@ -4,8 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#270A01"
+    android:background="@color/darkRed"
     tools:context=".ui.activities.MainActivity">
+
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvMenu"

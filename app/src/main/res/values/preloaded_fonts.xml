@@ -3,5 +3,8 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/kulim_park</item>
         <item>@font/kulim_park_bold</item>
+        <item>@font/kulim_park_bold_italic</item>
+        <item>@font/kulim_park_italic</item>
+        <item>@font/kulim_park_light_italic</item>
     </array>
 </resources>

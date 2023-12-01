@@ -1,3 +1,70 @@
 <resources>
-    <string name="app_name">Proyecto2</string>
+    <string name="app_name">GOT Personajes</string>
+    <!--
+    <string name="HTAR1">House Targaryen</string>
+    <string name="HTAR2">Targaryan</string>
+    <string name="HTARLY">House Tarly</string>
+    <string name="HSK1">House Stark</string>
+    <string name="HSK2">Stark</string>
+    <string name="HB1">House Baratheon</string>
+    <string name="HB2">Baratheon</string>
+    <string name="HL1">House Lannister</string>
+    <string name="HL2">House Lanister</string>
+    <string name="HL3">Lannister</string>
+    <string name="HG1">House Greyjoy</string>
+    <string name="HG2">Greyjoy</string>
+    <string name="HC">House Clegane</string>
+    <string name="HB">House Baelish</string>
+    <string name="HS">House Seaworth</string>
+    <string name="HTLL1">House Tyrell</string>
+    <string name="HTLL2">Tyrell</string>
+    <string name="HTH">Tarth</string>
+    <string name="B">Bolton</string>
+    <string name="N">Naharis</string>
+    <string name="M">Mormont</string>
+    <string name="BNN">Bronn</string>
+-->
+    <string name="Titulo">Titulo</string>
+    <string name="FirstName">Nombre</string>
+    <string name="LastName">Apellido</string>
+    <string name="FullName">Nombre y Apellido</string>
+    <string name="Fam">Familia | Casa</string>
+    <string name="Emblema">Emblema</string>
+    <string name="Descripcion">Personaje del libro y serie Game of Thrones</string>
+    <string name="aviso">No hay conexion disponible, revise su internet.</string>
+    <string name="aut1">Proyecto 2: Computación Móvil</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="pass">Contraseña</string>
+    <string name="in">Ingresar</string>
+    <string name="reg">Registrarse</string>
+    <string name="pass_for">¿Olvidó su contraseña? Restablecer aquí</string>
+    <string name="autora">Azul Alfaro Fernández</string>
+    <string name="Restablecer">Restablecer contraseña</string>
+    <string name="requiere_correo">Se requiere el correo</string>
+    <string name="contra_instr">Se requiere una contraseña o la contraseña no tiene por lo menos 6 caracteres</string>
+    <string name="correo_instr">Ingresa el correo para restablecer su contraseña</string>
+    <string name="send">Enviar</string>
+    <string name="corr_contra_send">El correo para restablecer la contraseña ha sido enviado</string>
+    <string name="mail_not_sent">No se pudo enviar el correro</string>
+    <string name="enter_mail">Por favor ingresa un correo</string>
+    <string name="cancel">Cancelar</string>
+    <string name="mail_error_format">Error: El correo electrónico no tiene un formato correcto</string>
+    <string name="invalid_password">Error: La contraseña no es válida</string>
+    <string name="dif_account">Error: Una cuenta ya existe con el mismo correo, pero con diferentes datos de ingreso</string>
+    <string name="another_account">Error: el correo electrónico ya está en uso con otra cuenta</string>
+    <string name="session_exp">Error: La sesión ha expirado. Favor de ingresar nuevamente.</string>
+    <string name="no_user">Error: No existe el usuario con la información proporcionada.</string>
+    <string name="invalid_pass">La contraseña porporcionada es inválida</string>
+    <string name="no_network_av">Red no disponible o se interrumpió la conexión</string>
+    <string name="failed_auth">Error. No se pudo autenticar exitosamente.</string>
+    <string name="correct_auth">Autenticación exitosa</string>
+    <string name="ver_email_sent">El correo de verificación ha sido enviado a tu cuenta</string>
+    <string name="mail_error">No se pudo enviar el correo de verificación</string>
+    <string name="user_create">Usuario creado</string>
+
+
+
+
+
+
 </resources>

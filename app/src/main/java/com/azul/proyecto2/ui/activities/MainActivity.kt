@@ -35,8 +35,8 @@ class MainActivity : AppCompatActivity() {
             ) {
                 binding.pbConexion.visibility = View.INVISIBLE
 
-                Log.d(Constants.LOGTAG, "Respuesta del servidor: ${response.toString()}")
-                Log.d(Constants.LOGTAG, "Datos: ${response.body().toString()}")
+                //Log.d(Constants.LOGTAG, "Respuesta del servidor: ${response.toString()}")
+                //Log.d(Constants.LOGTAG, "Datos: ${response.body().toString()}")
 
                 val charAdapter = CharactersAdapter(response.body()!!){
                     character ->
@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() {
 
             override fun onFailure(call: Call<ArrayList<Character>>, t: Throwable) {
                 binding.pbConexion.visibility = View.INVISIBLE
-                Toast.makeText(this@MainActivity, "No hay conexion disponible, revise su internet.", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this@MainActivity, "@strings/aviso", Toast.LENGTH_SHORT).show()
             }
 
         })

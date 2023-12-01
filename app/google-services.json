@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040013387602",
+    "project_id": "proyecto2-d26c4",
+    "storage_bucket": "proyecto2-d26c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040013387602:android:833fcdd1522562187a3c8b",
+        "android_client_info": {
+          "package_name": "com.azul.proyecto2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU7KV2BVEtIycc_6FV8NVzScQtVCkafmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
